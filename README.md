@@ -1,3 +1,5 @@
+![Seshat](seshat-banner.png)
+
 # Seshat — AI-Powered Revit Co-Architecture Assistant
 
 > *Seshat is the ancient Egyptian goddess of architecture and measurements. This plugin brings her into Autodesk Revit.*
